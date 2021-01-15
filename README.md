@@ -1,13 +1,18 @@
 # pokewiki
 
-## Project setup
+## Project clone
 ```
-npm install
+git clone https://github.com/Manicardi/pokewiki.git
 ```
 
 ## Project folder
 ```
 cd pokewiki
+```
+
+## Project setup
+```
+npm install
 ```
 
 ### Compiles and hot-reloads for development
