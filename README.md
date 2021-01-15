@@ -5,6 +5,11 @@
 npm install
 ```
 
+## Project folder
+```
+cd pokewiki
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
